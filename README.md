@@ -1,72 +1,25 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# prtfolio-mobie
 
-> Description the project.
+> creating portfolio for mobile version skeleton. for:
+- Understand how to parse a Figma design to create a UI.
+-Flexbox to place elements in the page.
+-Build a personal portfolio site.
+-Use images and backgrounds to enhance the look of the website.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- html
+- css
+- git and github
+- 
+👤 **Mehria-Rahmani***
+- Github: [@Merhia-Rahmani](https://github.com/Mehria-Rahmani)
+- Twitter: [@MehriaRahmani](https://twitter.com/MehriaRahmani?t=QwKwWXTVBZthv4sUrOXtfQ&s=08)
+- LinkedIn: [@mehria-rahmani](https://www.linkedin.com/in/mehria-rahmani-379211222) 
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
