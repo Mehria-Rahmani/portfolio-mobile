@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# prtfolio-mobie
+# prtfolio-mobile
 
 > creating portfolio for mobile version skeleton. for:
 - Understand how to parse a Figma design to create a UI.
