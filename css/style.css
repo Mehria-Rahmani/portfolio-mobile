@@ -1,0 +1,103 @@
+body {
+  background: #1c1a19;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+section,
+nav,
+a {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.container {
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.bar {
+  display: block;
+  width: 25px;
+  height: 3px;
+  margin: 5px auto;
+  background-color: white;
+}
+
+header a {
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 48px;
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Roboto', sans-serif;
+  background: #3c3a39;
+  align-items: center;
+}
+
+.hero-wrapper {
+  background-image: url(../assets/illustration-header-mobile.svg);
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-position: 100% 40%;
+  height: 100vh;
+}
+
+.headline {
+  font-style: normal;
+  font-family: 'Crete Round', sans-serif;
+  font-weight: 400;
+  font-size: 56px;
+  margin-top: 40%;
+  padding-bottom: 30px;
+  line-height: 64px;
+  letter-spacing: 0.37px;
+  color: #ff6b00;
+  text-decoration: none;
+}
+
+.job-title {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  margin: 1px;
+  color: #fff5e1;
+}
+
+.job-description {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 24px;
+  color: white;
+}
+
+.links * {
+  display: flex;
+  gap: 20px;
+}

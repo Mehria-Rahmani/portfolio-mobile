@@ -11,14 +11,15 @@
 
 ## Built With
 
-- html
+- HTML
 - css
-- git and github
-- 
-👤 **Mehria-Rahmani***
+
+
+**Mehria-Rahmani***
 - Github: [@Merhia-Rahmani](https://github.com/Mehria-Rahmani)
 - Twitter: [@MehriaRahmani](https://twitter.com/MehriaRahmani?t=QwKwWXTVBZthv4sUrOXtfQ&s=08)
 - LinkedIn: [@mehria-rahmani](https://www.linkedin.com/in/mehria-rahmani-379211222) 
+
 
 
 ## 📝 License
