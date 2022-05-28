@@ -30,6 +30,9 @@ li {
   width: 100%;
   position: fixed;
   background: #3c3a39;
+  top: 0;
+  left: 0;
+  
 }
 
 header a {
